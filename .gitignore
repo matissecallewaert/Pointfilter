@@ -1,0 +1,4 @@
+*.ply
+Dataset/CustomSingle
+Customer_Module/
+__pycache__/
